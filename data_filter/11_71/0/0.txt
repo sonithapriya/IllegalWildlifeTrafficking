@@ -1,0 +1,1 @@
+{"name": "Taxidermy IBIS", "price": "$371.07", "location": "", "details": "Handmade", "description": "Taxidermy Red IBIS.\nJuvenile bird.\nRinged.\nGood condition see the pictures.", "url": "https://www.etsy.com/search?q=[KW]&order=price_desc&view_type=gallery&ship_to=US&explicit=1&page=1\n"}

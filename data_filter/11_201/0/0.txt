@@ -1,0 +1,1 @@
+{"name": "Falcon feather cuff", "price": "$60.00", "location": "", "details": "Handmade item\nMaterials: snaps, paint, dye, leather", "description": "4oz vegetable tanned Leather Falcon feather burned, tooled, painted, dyed, oiled. Snaps in place.", "url": "https://www.etsy.com/search?q=[KW]&order=price_desc&view_type=gallery&ship_to=US&explicit=1&page=1\n"}

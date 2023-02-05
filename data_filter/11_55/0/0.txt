@@ -1,0 +1,1 @@
+{"name": "Rainbow Bird Skull", "price": "$7.00", "location": "", "details": "Handmade\n\nMaterials: paint, mica powder, resin", "description": "This lovely bird skull is a beautiful addition to any decor, especially on a bookshelf or in a plant pot!", "url": "https://www.etsy.com/search?q=[KW]&order=price_desc&view_type=gallery&ship_to=US&explicit=1&page=1\n"}

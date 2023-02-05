@@ -1,0 +1,1 @@
+{"name": "Kingfisher Skull", "price": "Price:\n$63.75", "location": "", "details": "Handmade\nWidth: 3.25 inches", "description": "Rare opportunity to own a kingfisher skull. Not too many birds are legal to own. This is one of them. See pics for details", "url": "https://www.etsy.com/search?q=[KW]&order=price_desc&view_type=gallery&ship_to=US&explicit=1&page=1\n"}
